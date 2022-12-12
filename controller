@@ -3,6 +3,6 @@ class controller
 int num_user1;
 
 @...("fn1.do")
-String fn1(){
-	return "hello";
+void fn1(){
+	return "hi";
 }
