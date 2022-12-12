@@ -1,6 +1,6 @@
-class gaeunController
+class controller
 
-int num;
+int num_user1;
 
 @...("fn1.do")
 String fn1(){
