@@ -1,0 +1,8 @@
+class gaeunController
+
+int num;
+
+@...("fn1.do")
+String fn1(){
+	return "hello";
+}
